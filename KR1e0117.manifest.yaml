@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR1e0117/v1
+canonical_location: https://kanripo.org/bkk/KR1e0117/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春秋左傳小疏
+  date: '2015-08-24 22:17:42.897917'
+  source:
+    repository: kanripo
+    path: KR1e0117
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1e0117_000.yaml, hash: 'sha256:886e30e20a77ee3400ba90880cc8488d639c1e1ed1616fed64895cfd50995cc9'}
+  - {seq: 1, filename: KR1e0117_001.yaml, hash: 'sha256:dfd81527895256c35f63cc46f6651461103b50fce13d4fbaa36399136d42c0be'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1e0117_000.markers.yaml, hash: 'sha256:e79c3c9c7008becd11ec4623f22e40762caf25e67e892a3ecb6a8772828fc7b3'}
+  - {seq: 1, role: markers, filename: assets/KR1e0117_001.markers.yaml, hash: 'sha256:3cbe4e13790b0096a95ad1e6817abee3a6fbf37969e41cd4cacaf540f27dd3e8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1e0117_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 936
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1e0117_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6092
+  label: 春秋左傳小疏
+  type: section
+  level: 1
+hash: sha256:db47ce023cd4644ca36f4b29afe77a0e857274417f87b95515ac41cfb902cf42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
