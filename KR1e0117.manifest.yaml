@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1e0117/v1
 canonical_location: https://kanripo.org/bkk/KR1e0117/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 春秋左傳小疏
   date: '2015-08-24 22:17:42.897917'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1e0117_000.yaml, hash: 'sha256:07e34135dc8ea501e596c7bafe5ffbcfb92d51bcd3f02e2b359faf7c781b200a'}
-  - {seq: 1, filename: KR1e0117_001.yaml, hash: 'sha256:5c1ca5933e01001a9b0d3ee3403135ffa749eddf2c7597103f5d2282b49e5b62'}
+  - {seq: 0, filename: KR1e0117_000.yaml, hash: 'sha256:e963e37de62f7fff7c17309556dd15a4dce19c5a5d27ad81043f396bc289d554'}
+  - {seq: 1, filename: KR1e0117_001.yaml, hash: 'sha256:7438c4e14a22616dfa1041c08e3fb0aa9020095edb480e36dc6f3497fe08a035'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0117_000.markers.yaml, hash: 'sha256:1e6af3c28076b7a903a2075d4f7fced74b62ed70741f61c7e3229af18c117d6a'}
-  - {seq: 1, role: markers, filename: assets/KR1e0117_001.markers.yaml, hash: 'sha256:ef5a34a0238c3ee8ede2de8e132802b53d1fbb93bf9bc891dd744d888d1dc45e'}
+  - {seq: 0, role: markers, filename: assets/KR1e0117_000.markers.yaml, hash: 'sha256:9ed295f35acabbffe23a82a834c30b98c10114f52e5735fea0425a0984ac8c47'}
+  - {seq: 1, role: markers, filename: assets/KR1e0117_001.markers.yaml, hash: 'sha256:10ea1b4f4bd2bb28978d144e887e601833741317714143e55f91091b6ca59f90'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 春秋左傳小疏
   type: section
   level: 1
-hash: sha256:dc0df0bb3ab6c7fd4a39ab244f7dd8688a74bbf8111e1833b5870653fde3b105
+hash: sha256:54001940718e04a354ed1d60c6491d8df56009db0ea8c60cac273ec8d577f35a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
