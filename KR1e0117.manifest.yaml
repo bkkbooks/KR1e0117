@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1e0117_000.yaml, hash: 'sha256:e963e37de62f7fff7c17309556dd15a4dce19c5a5d27ad81043f396bc289d554'}
   - {seq: 1, filename: KR1e0117_001.yaml, hash: 'sha256:7438c4e14a22616dfa1041c08e3fb0aa9020095edb480e36dc6f3497fe08a035'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0117_000.markers.yaml, hash: 'sha256:9ed295f35acabbffe23a82a834c30b98c10114f52e5735fea0425a0984ac8c47'}
-  - {seq: 1, role: markers, filename: assets/KR1e0117_001.markers.yaml, hash: 'sha256:10ea1b4f4bd2bb28978d144e887e601833741317714143e55f91091b6ca59f90'}
+  - {seq: 0, role: markers, filename: assets/KR1e0117_000.markers.yaml, hash: 'sha256:cfd1b9627ab9b68243dff53a89fb10a125d269040740a772fea7879c88a23198'}
+  - {seq: 1, role: markers, filename: assets/KR1e0117_001.markers.yaml, hash: 'sha256:8ad0900c9553b19ef69421b6153290452b2aa977c6ff559955ab00e388ab733d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 春秋左傳小疏
   type: section
   level: 1
-hash: sha256:54001940718e04a354ed1d60c6491d8df56009db0ea8c60cac273ec8d577f35a
+hash: sha256:48019a230129eb067687fc9e51888ebb60a1775f6fafa4e13a960b798f7799e5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
